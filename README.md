@@ -12,4 +12,4 @@ window.alert('This is a Alert box');
 window.prompt("Enter your Name");
 ```
 ![download](https://user-images.githubusercontent.com/95132249/143728779-13063ab8-da6d-42aa-a9b1-d5aaf689be21.jpg)
-https://https://imgur.com/a/U3s0Ati
+https://imgur.com/a/U3s0Ati
