@@ -11,4 +11,4 @@ window.alert('This is a Alert box');
 ```
 window.prompt("Enter your Name");
 ```
-![download](https://user-images.githubusercontent.com/95132249/143728696-e799901d-0d4a-4200-8392-08d77635d7aa.jpg)
+![download](https://user-images.githubusercontent.com/95132249/143728779-13063ab8-da6d-42aa-a9b1-d5aaf689be21.jpg)
